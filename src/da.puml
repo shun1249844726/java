@@ -1,0 +1,4 @@
+@startuml
+A -> B : 调用B中方法C
+B -> A : 调用A中方法D
+@enduml
